@@ -1,4 +1,4 @@
-//this is the m
+//this is the ma
 import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import { AuthProvider } from "./context/AuthContext";
