@@ -1,4 +1,4 @@
-//this is the main compone
+//this is the main componen
 import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import { AuthProvider } from "./context/AuthContext";
